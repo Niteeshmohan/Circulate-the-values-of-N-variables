@@ -17,5 +17,6 @@ Using the slicing concept rotate the list
 ## Program:
 
 ## Output:
+![model](./cir.png)
 
 ## Result:
